@@ -1,0 +1,3 @@
+[submodule "mixcraft.projecttemplate.samples"]
+	path = mixcraft.projecttemplate.samples
+	url = git@github.com:cymatic-productions/mixcraft.projecttemplate.samples.git
